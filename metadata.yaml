@@ -1,0 +1,30 @@
+_repo: L-Egypte-eternelle_67382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ivray, Jehan d'
+    alias: D'Ivray, Jehan
+    birthdate: 1861
+    deathdate: 1940
+    gutenberg_agent_id: '54164'
+    url: http://www.gutenberg.org/2009/agents/54164
+    wikipedia: https://fr.wikipedia.org/wiki/Jehan_d%27Ivray
+description: ''
+gutenberg_issued: '2022-02-12'
+identifiers:
+  gutenberg: '67382'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uiug.30112083759156
+pgterms:marc905: 20220123091753divray
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: France :La renaissance du livre,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'Égypte éternelle
+url: http://www.gutenberg.org/ebooks/67382
